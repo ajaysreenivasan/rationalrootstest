@@ -1,0 +1,1 @@
+This is a simple program to help with the rational roots test. You'll need to manually change the factors and insert the equation itself though.
